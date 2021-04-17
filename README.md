@@ -4,7 +4,7 @@
 ## Social Media Demo based on MERNG
 ### Simply submit single post contains publisher, title, dialog, tags and photos on its platform about what happened in their life
 
-Server components/libraries
+#### Server components/libraries
 - MongoDB @5.10 /Atlas
 - Node Express
 - GraphQL @15.4
@@ -13,7 +13,7 @@ Server components/libraries
 - jsonwebtoken @8.5.1
 - nodemon @2.0.6
 
-Client components/libraries
+#### Client components/libraries
 - React @16.14
 - Semantic UI React @2.0
 - Semantic UI CSS @2.4
@@ -21,12 +21,12 @@ Client components/libraries
 - jwt-decode @3.1.2",
 
 ### How to start it?
-Server side
-Installation: npm i
+#### Server side
+Installation: `npm i`
 
-Run: node index or nodemon index
+Run: `node index or nodemon index`
 
-Client side
+#### Client side
 Installation: `yarn`
 
 Run: `yarn start`
